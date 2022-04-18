@@ -1,0 +1,10 @@
+            like    comments     share
+jhon =         4        101         8
+rudi=          2        302         10
+shinta=       50        430         45
+dody=          8        06           9
+
+jhon like ke 1 comments ke 1 share ke 1
+rudi like ke 2 comments ke 2 share ke 2
+shinta like ke 3 comments ke 3 share ke 3
+dody like ke 4 comments ke 4 share ke 4
